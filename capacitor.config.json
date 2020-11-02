@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "des-mobil-app",
+  "appId": "dvsa.template.app",
+  "appName": "dvsa-template-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
